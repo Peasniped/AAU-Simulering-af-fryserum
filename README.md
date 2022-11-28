@@ -5,13 +5,14 @@ Opgaven lyder at programmere og simulere en restaurants temperaturen i og udgift
   
 ## Instructions:
 1. Download repo og udpak hele .zip-filen
-2. Start spillet ved at køre main.py
+2. Importer modulerne og brug dem i egne programmer, eller kør `simulation.py` eller `playback.py`for at se eksempler på brug
   
 ---
 ### Dependencies:
-For at køre spillet skal du bruge følgende moduler i Python:  
+For at køre modulerne skal du bruge følgende moduler i Python:  
 - Matplotlib
 - NumPy  
+- Pandas
   
 Modulerne kan installeres med pip-installer som fx:
 ```
